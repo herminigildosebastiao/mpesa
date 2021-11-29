@@ -1,0 +1,5 @@
+{
+    "require": {
+        "emagombe/mpesa-api": "^1.1"
+    }
+}

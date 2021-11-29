@@ -1,0 +1,46 @@
+{
+    "packages": [
+        {
+            "name": "emagombe/mpesa-api",
+            "version": "v1.1.2",
+            "version_normalized": "1.1.2.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/emagombe/mpesa-api.git",
+                "reference": "efd8a3875ecfec79501e5f58013defda655e3c51"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/emagombe/mpesa-api/zipball/efd8a3875ecfec79501e5f58013defda655e3c51",
+                "reference": "efd8a3875ecfec79501e5f58013defda655e3c51",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^7.0"
+            },
+            "time": "2021-08-29T17:46:42+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "emagombe\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "authors": [
+                {
+                    "name": "Edson Magombe",
+                    "email": "edson.patricio.39@gmail.com"
+                }
+            ],
+            "description": "API em PHP para M-PESA (Mo\u0000ambique)",
+            "support": {
+                "issues": "https://github.com/emagombe/mpesa-api/issues",
+                "source": "https://github.com/emagombe/mpesa-api/tree/v1.1.2"
+            },
+            "install-path": "../emagombe/mpesa-api"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}
